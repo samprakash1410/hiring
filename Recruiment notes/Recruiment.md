@@ -1,7 +1,6 @@
 //Day 2 day //
 
-Recruiment > the overall process of identify-attracting-screening-shortlisting are hiring quilified candidates for job
-  with-in a organizaion.
+Recruiment > the overall process of identify-attracting-screening-shortlisting are hiring quilified candidates for job with-in a organizaion.
  
  >>stages in processing in recruiment<<
   1> Job Description: a formal document that outlines the duties, responsibilities, required skills, and qualifications for a specific role within an organization.
@@ -42,4 +41,8 @@ pay roll of hr:
 
    Record Keeping>>Store financial and tax records securely for audits.
   
+
+examples: for pay roll
+
+[for pay roll](<pay slip.png>)
 
