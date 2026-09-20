@@ -61,11 +61,5 @@ Market study:
     Keeping valuable employees in the organization.( career opportunities, employee engagement)
 
    Separation:
-    Employee leaves the organization.(Resignation/termination process,)
+    Employee leaves the organization.(Resignation/termination process,).
 
->>>>Technologies:
-  Data Science:
-   python,machine learning ,deep learning ,ai,llms,natural language process.
-
- Networking:
-   vpn,cloud services,ipv4,dns,firewalls.
