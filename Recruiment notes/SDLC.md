@@ -24,8 +24,6 @@ Deployment:
 Maintenance:
  Monitor the software, fix issues, and make improvements after release.
 
-Market study:
- researching external economic and talent conditions to guide hiring decisions.
 
 >>>Product Life Cycle:
  Introduction → Growth → Maturity → Decline 
