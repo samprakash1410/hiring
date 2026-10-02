@@ -33,7 +33,7 @@
 
 >import STEPS<
 
- payroll sheet formulas:
+ payroll sheet formulas for 5 emp table:
    
    emp name formulas:
      =VLOOKUP([@[EMPLOYEES''S ID]],RAW_DATA_TABLE,2,0)
@@ -48,7 +48,7 @@
        =VLOOKUP([@[EMPLOYEES''S ID]],RAW_DATA_TABLE,13,0)
 
       earnings base salary:
-       =[@[EMPLOYEE''S BASIC SALARY]]/[@[Total working days]]*[@[ATTENDANCE WORK DAYS ]]
+       =[@[EMPLOYEE''S BASIC SALARY]]/[@[NO OF WORK DAYS ]]*[@[ATTENDANCE WORK DAYS ]]
 
       emp ot hours:
        =VLOOKUP([@[EMPLOYEES''S ID]],RAW_DATA_TABLE,14,0)
